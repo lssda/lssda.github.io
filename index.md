@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Home"
 ---
 
 # Productive, Performant Software for Large Scale Scientific Data Analysis
