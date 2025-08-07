@@ -24,3 +24,7 @@ This workshop will explore the research challenges and opportunities in building
  * Keita Teranishi (ORNL)
  * Patrick McCormick (LANL)
  * Roberto Gioiosa (PNNL)
+
+<div class="text-center mt-3">
+  <a class="btn btn-primary btn-lg" href="mailto:eslaught@slac.stanford.edu">Contact Us</a>
+</div>
