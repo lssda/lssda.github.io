@@ -1,0 +1,19 @@
+# Configuration:
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "Makefile", "README.md"]
+
+# Metadata:
+title: Productive, Performant Software for Large Scale Scientific Data Analysis
+
+navigation:
+  - label: Home
+    url: "/"
+  - label: Call for Participation
+    url: "/cfp"
+  - label: Registration
+    url: "/register"
+  - label: Agenda
+    url: "/agenda"
+  - label: Lodging
+    url: "/lodging"
+  - label: Onsite
+    url: "/onsite"

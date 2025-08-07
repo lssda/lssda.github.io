@@ -1,0 +1,12 @@
+.DS_Store
+*~
+\#*\#
+.\#*
+.*.swp
+*.orig
+*.rej
+
+/_site
+.jekyll-metadata
+
+/_vendor
