@@ -23,6 +23,10 @@ All participants are strongly encouraged to attend in person to maximize the pro
 
 Presentation of a lightning talk is not a requirement for participation in the workshop, but note that advance registration is required.
 
+<div class="text-center my-4">
+  <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfLmD1TvR1R5FYdMI-PqJOzxT9e6YaNyz4hZoipM1EFcXRtQA/viewform?usp=dialog">Submit a Talk</a>
+</div>
+
 ## Important Dates
 
   * Abstract submission deadline: September 8, 2025
