@@ -14,3 +14,5 @@ title: "Onsite Logistics"
  * If you are taking a ride-share service, the driver will be directed by Security to drop you off at the B53 SUSB.
 
  * If you require any ADA accommodations, please inform us in advance.
+
+ * The workshop will be held in the Redwood conference room (A/B/C/D), located in building 048. A map of SLAC is available at: https://vue.slac.stanford.edu/meeting-rooms
