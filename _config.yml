@@ -10,9 +10,9 @@ navigation:
     url: "/"
   - label: Call for Participation
     url: "/cfp"
-  - label: Submit a Talk
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSfLmD1TvR1R5FYdMI-PqJOzxT9e6YaNyz4hZoipM1EFcXRtQA/viewform?usp=dialog"
-    external: true
+  # - label: Submit a Talk
+  #   url: "https://docs.google.com/forms/d/e/1FAIpQLSfLmD1TvR1R5FYdMI-PqJOzxT9e6YaNyz4hZoipM1EFcXRtQA/viewform?usp=dialog"
+  #   external: true
   - label: Registration
     url: "/register"
   - label: Agenda
