@@ -17,7 +17,7 @@ navigation:
     url: "/register"
   - label: Agenda
     url: "/agenda"
-  # - label: Lodging
-  #   url: "/lodging"
-  # - label: Onsite
-  #   url: "/onsite"
+  - label: Lodging
+    url: "/lodging"
+  - label: Onsite
+    url: "/onsite"

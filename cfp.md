@@ -44,11 +44,11 @@ By submitting an abstract, the authors consent to publishing it publicly.
 
 ## Location and Travel
 
-The workshop will be held at SLAC National Accelerator Laboratory in Menlo Park, CA. Parking is available for free on site. Note that registration is required for all attendees and that all visitors must present valid identification when entering SLAC.
+The workshop will be held at SLAC National Accelerator Laboratory in Menlo Park, CA. Parking is available for free on site. Note that [registration]({{ "/register" | relative_url }}) is required for all attendees and that all visitors must present valid identification when entering SLAC.
 
 The workshop will be held in the Redwood conference room (A/B/C/D), located in building 048. A map of SLAC is available at: <https://vue.slac.stanford.edu/meeting-rooms>
 
-A room block is available at the SLAC Guest House (link TBD). Additional hotels may be available in the area.
+A room block is available at the [Stanford Guest House]({{ "/lodging" | relative_url }}). Additional hotels may be available in the area.
 
 ## Organizing Committee
 
