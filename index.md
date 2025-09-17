@@ -17,7 +17,7 @@ Scientific user facilities (SUFs) at the U.S. Department of Energy (DOE) drive s
 This workshop will explore the research challenges and opportunities in building a highly productive, high-performance software ecosystem for large scale scientific data analysis for users at the SUFs. The goal of the workshop is to identify key research directions that, if addressed, would substantially change the status quo and deliver an order of magnitude increase in productivity and performance for users of SUFs across the DOE complex.
 
 <div class="text-center my-4">
-  <a class="btn btn-primary btn-lg" href="{{ "/register" | relative_url }}">Register Now</a>
+  <a class="btn btn-primary btn-lg" role="button" href="{{ "/register" | relative_url }}">Register Now</a>
 </div>
 
 # Organizing Committee
@@ -30,5 +30,5 @@ This workshop will explore the research challenges and opportunities in building
  * Roberto Gioiosa (PNNL)
 
 <div class="text-center mt-4 mb-1">
-  <a class="btn btn-primary btn-lg" href="mailto:eslaught@slac.stanford.edu">Contact Us</a>
+  <a class="btn btn-primary btn-lg" role="button" href="mailto:eslaught@slac.stanford.edu">Contact Us</a>
 </div>
