@@ -31,7 +31,7 @@ Presentation of a lightning talk is not a requirement for participation in the w
 
   * Abstract submission deadline: September 8, 2025
   * Notification date: September 15, 2025
-  * Registration deadline: October 12, 2025
+  * Registration deadline: October 6, 2025
   * Workshop dates: October 21&ndash;22, 2025
 
 ## Format
