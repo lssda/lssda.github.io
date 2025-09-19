@@ -13,7 +13,7 @@ The workshop will be held in the Redwood conference room (A/B/C/D), located in b
   * **Session 1**: 8:30--10:00am
       * *Introduction*: 8:30--8:40am
       * *Plenary*: Jana Thayer (SLAC): 8:40--9:20am
-      * *Plenary*: Nicholas Sauter (LBL): 9:20--10:00am
+      * *Plenary*: Nicholas Sauter and David Mittan-Moreau (LBNL): 9:20--10:00am
   * **Break**: 10:00am--10:30am
   * **Session 2**: 10:30am--12:00pm
       * *Invited Talks*: 10:30--11:10am
