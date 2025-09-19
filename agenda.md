@@ -5,6 +5,8 @@ title: "Agenda"
 
 # Agenda
 
+The workshop will be held in the Redwood conference room (A/B/C/D), located in building 048. A map of SLAC is available at: <https://vue.slac.stanford.edu/meeting-rooms>
+
 ## Tuesday, October 21, 2025
 
   * **Breakfast**: 8:00--8:30am
