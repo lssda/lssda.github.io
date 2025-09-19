@@ -9,7 +9,7 @@ Scientific user facilities (SUFs) at the U.S. Department of Energy (DOE) drive s
 
 This workshop will explore the research challenges and opportunities in building a highly productive, high-performance software ecosystem for large scale scientific data analysis for users at the SUFs. The goal of the workshop is to identify key research directions that, if addressed, would substantially change the status quo and deliver an order of magnitude increase in productivity and performance for users of SUFs across the DOE complex.
 
-To address these goals, short (8&ndash;10 minute) talks are solicited in the following areas.
+To address these goals, short (8 minute) talks are solicited in the following areas.
 
  1. SUF use cases that require large-scale data analysis and/or computation
  2. Programming models, languages, tools and methodologies, and AI/ML approaches
@@ -37,7 +37,7 @@ Presentation of a lightning talk is not a requirement for participation in the w
 
 ## Format
 
-Talks are 8&ndash;10 minutes with separate Q&A. All participants are strongly encouraged to attend in person to maximize the productivity of the event. A virtual presentation option will be available if necessary.
+Talks are 8 minutes with separate Q&A. All participants are strongly encouraged to attend in person to maximize the productivity of the event. A virtual presentation option will be available if necessary.
 
 Abstracts are up to 2 pages maximum (including all text, figures, footnotes, citations, etc.), in 12-point font, on letter paper, with 1-inch margins. Abstracts should be submitted in PDF format only.
 
