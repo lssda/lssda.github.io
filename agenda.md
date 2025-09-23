@@ -42,6 +42,7 @@ The workshop will be held in the Redwood conference room (A/B/C/D), located in b
       * *Programming Models Panel*: 4:00--5:00pm
           * Arkouda and Chapel, represented by Brad Chamberlain (HPE)
           * cuPyNumeric, represented by Manolis Papadakis (NVIDIA)
+          * DragonHPC, represented by Colin Wahl (HPE)
           * Julia, represented by Johannes Blaschke (NERSC)
           * Lamellar, represented by Ryan Friese (PNNL)
   * **Dinner**: 6:00--7:00pm
