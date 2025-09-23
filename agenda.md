@@ -40,6 +40,10 @@ The workshop will be held in the Redwood conference room (A/B/C/D), located in b
           * Vincent Esposito (SLAC)
           * Valerio Mariani (SLAC)
       * *Programming Models Panel*: 4:00--5:00pm
+          * Arkouda and Chapel, represented by Brad Chamberlain (HPE)
+          * cuPyNumeric, represented by Manolis Papadakis (NVIDIA)
+          * Julia, represented by Johannes Blaschke (NERSC)
+          * Lamellar, represented by Ryan Friese (PNNL)
   * **Dinner**: 6:00--7:00pm
 
 ## Wednesday, October 22, 2025
@@ -49,6 +53,10 @@ The workshop will be held in the Redwood conference room (A/B/C/D), located in b
       * *Invited Talk*: 8:30--8:50am
           * Kento Sato (RIKEN): 8:30--8:50am
       * *Industry Hardware Panel*: 8:50--9:50am
+        * Austin Ellis (AMD)
+        * Larry Kaplin (HPE)
+        * Raghu Prabhakar (SambaNova)
+        * Skyler Windh (Micron)
   * **Break**: 9:50am--10:20am
   * **Session 6**: 10:20am--12:00pm
       * *Lightning Talks*: 10:20--10:54am
