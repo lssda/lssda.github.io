@@ -13,4 +13,11 @@ Registration is free of charge, but is *mandatory* for all participants. The reg
   <a class="btn btn-primary btn-lg" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLScS0_YQ7nkwa5WhlpDjBUTgo_98KlmhHitRgd9m_IqAnaGrZA/viewform?usp=header">Step 1. Register</a>
 </div>
 
-We are currently working with SLAC security to establish the form for the second registration step.
+As a second step, attendees who do not have an existing, valid SLAC badge are required to register with SLAC security. This is required for **both virtual and in-person attendees**. Fill out the required fields, and note the following:
+
+ 1. Event name is "LSSA - Productive, Performant Software for Large Scale Scientific Data Analysis"
+ 2. SLAC Point of Contact (POC) is Amita Gupta
+
+<div class="text-center my-4">
+  <a class="btn btn-primary btn-lg" role="button" href="https://erp-hprdext.erp.slac.stanford.edu/psc/hprdext/EMPLOYEE/HRMS/c/SL_DOE_FACT.SL_DOE_FACTS_USER.GBL?&source=Conf">Step 2. SLAC Event Access</a>
+</div>
