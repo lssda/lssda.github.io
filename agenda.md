@@ -18,7 +18,7 @@ The workshop will be held in the Redwood conference room (A/B/C/D), located in b
   * **Session 2**: 10:30am--12:00pm
       * *Invited Talks*: 10:30--11:10am
           * Wah Chiu (SLAC): 10:30--10:50am
-          * Martin Pokorny (CalTech): 10:50--11:10am
+          * Martin Pokorny (Caltech): 10:50--11:10am
       * *Lightning Talks*: 11:10am--12:00pm
           * Xiang Li (SLAC)
           * Oliver Hoidn (SLAC)
