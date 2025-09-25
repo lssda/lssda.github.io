@@ -21,3 +21,5 @@ As a second step, attendees who do not have an existing, valid SLAC badge are re
 <div class="text-center my-4">
   <a class="btn btn-primary btn-lg" role="button" href="https://erp-hprdext.erp.slac.stanford.edu/psc/hprdext/EMPLOYEE/HRMS/c/SL_DOE_FACT.SL_DOE_FACTS_USER.GBL?&source=Conf">Step 2. SLAC Event Access</a>
 </div>
+
+Please complete this second step by October 14 to ensure that SLAC security has a complete guest list for the workshop.
