@@ -7,6 +7,8 @@ title: "Registration"
 
 Registration is free of charge, but is *mandatory* for all participants. The registration deadline is October 9, 2025.
 
+Both virtual and in-person attendance options are available, but we strongly recommend that all speakers attend in person to maximize the productivity of the event.
+
 **Important:** Registration is a two step process. Fill out the form below **by October 9, 2025**. Attendees who do not have an existing, valid SLAC badge will be required to additionally register with SLAC security to obtain site access.
 
 <div class="text-center my-4">
