@@ -5,7 +5,7 @@ title: "Onsite Logistics"
 
 # Site Access and Workshop Attendance
 
-**Important:** before arriving, please ensure you have fully registered, including **both** steps for attendees without an existing, valid SLAC badge.
+**Important:** before arriving, please ensure you have [fully registered]({{ "/register" | relative_url }}), including **both** steps for attendees without an existing, valid SLAC badge.
 
  * Please arrive at the SLAC Main Gate ([2575 Sand Hill Rd](https://maps.app.goo.gl/q1iT8b3xzSrFgVrF6)) for security check-in. Inform the Security personnel that you are attending a workshop. Remember to bring a government-issued ID, such as a driver's license or passport.
 
