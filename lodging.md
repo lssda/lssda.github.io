@@ -13,9 +13,9 @@ The workshop will be held at SLAC National Accelerator Laboratory in Menlo Park,
 
 The only hotel owned and operated by Stanford University,  Stanford Guest House welcome guests of Stanford University, SLAC  National Accelerator Laboratory and Stanford Medicine. Guests require both an affiliation to one of these organizations and an educational  purpose for their visit.
 
-You can book online at [guesthouse.stanford.edu](https://guesthouse.stanford.edu), or by contacting our front desk for assistance at [650-926-2800](tel:650-926-2800).
+You can book online at [guesthouse.stanford.edu](https://guesthouse.stanford.edu), or by contacting the front desk for assistance at [650-926-2800](tel:650-926-2800).
 
-A group code is available until September 22. After September 22, rooms are available on a first-come, first-serve basis. For questions, [contact us](mailto:eslaught@slac.stanford.edu).
+Rooms are available on a first-come, first-serve basis, subject to availability.
 
 ## Nearby
 
