@@ -49,7 +49,7 @@ The workshop will be held at SLAC National Accelerator Laboratory in Menlo Park,
 
 The workshop will be held in the Redwood conference room (A/B/C/D), located in building 048. A map of SLAC is available at: <https://vue.slac.stanford.edu/meeting-rooms>
 
-A room block is available at the [Stanford Guest House]({{ "/lodging" | relative_url }}). Additional hotels may be available in the area.
+Attendees may book at the [Stanford Guest House]({{ "/lodging" | relative_url }}) (subject to availability). Additional hotels may be available in the area.
 
 ## Organizing Committee
 
