@@ -7,6 +7,8 @@ title: "Agenda"
 
 Location: Redwood conference room (A/B/C/D), building 048 ([map](https://vue.slac.stanford.edu/meeting-rooms))
 
+A Zoom link will be emailed to virtual attendees the week of the workshop.
+
 ## Tuesday, October 21, 2025
 
   * **Breakfast**: 8:00--8:30am
