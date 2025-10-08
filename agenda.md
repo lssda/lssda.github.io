@@ -9,6 +9,10 @@ Location: Redwood conference room (A/B/C/D), building 048 ([map](https://vue.sla
 
 A Zoom link will be emailed to virtual attendees the week of the workshop.
 
+<div class="text-center my-4">
+  <a class="btn btn-primary btn-lg" role="button" href="{{ "/pdfs/LSSDA_Brief.pdf" | relative_url }}">View the Pre-Workshop Brief</a>
+</div>
+
 ## Tuesday, October 21, 2025
 
   * **Breakfast**: 8:00--8:30am
