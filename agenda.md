@@ -68,7 +68,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Session 6**: 10:20am--12:00pm
       * *Lightning Talks*: 10:20--10:54am
           * Dionisio Doering (SLAC)
-          * Aashwin Ananda Mishra (SLAC)
           * Joshua Turner (SLAC)
+          * Aashwin Ananda Mishra (SLAC)
       * *Discussion/Response Time*: 11:00am--12:00pm
   * **Lunch**: 12:00--1:00pm
