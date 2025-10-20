@@ -33,7 +33,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
           * Elyse Schriber (SLAC)
   * **Lunch**: 12:00--1:00pm
   * **Session 3**: 1:00pm--2:40pm
-      * *Plenary*: Ben Brown (DOE): 1:00pm--1:40pm
+      * *Plenary*: Tom Uram (ANL): 1:00pm--1:40pm
       * *Invited Talks*: 1:46--2:40pm
           * Ryan Coffee (SLAC): 1:46--2:04pm
           * Hannah Parraga (ANL): 2:04--2:22pm
