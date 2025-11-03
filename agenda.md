@@ -61,7 +61,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
           * Kento Sato (RIKEN): 8:30--8:50am \[[slides]({{ "/slides/5_Sato.pdf" | relative_url }})]
       * *Industry Hardware Panel*: 8:50--9:50am
         * Austin Ellis (AMD)
-        * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplin.pdf" | relative_url }})]
+        * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplan.pdf" | relative_url }})]
         * Raghu Prabhakar (SambaNova)
         * Skyler Windh (Micron) \[[slides]({{ "/slides/5_Windh.pdf" | relative_url }})]
   * **Break**: 9:50am--10:20am
