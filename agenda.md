@@ -19,11 +19,11 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Session 1**: 8:30--10:00am
       * *Introduction*: 8:30--8:40am
       * *Plenary*: Jana Thayer (SLAC): 8:40--9:20am
-      * *Plenary*: Nicholas Sauter and David Mittan-Moreau (LBNL): 9:20--10:00am
+      * *Plenary*: Nicholas Sauter and David Mittan-Moreau (LBNL): 9:20--10:00am \[[slides]({{ "/slides/1_Sauter_Mittan-Moreau.pdf" | relative_url }})]
   * **Break**: 10:00am--10:30am
   * **Session 2**: 10:30am--12:00pm
       * *Invited Talks*: 10:30--11:10am
-          * Wah Chiu (SLAC): 10:30--10:50am
+          * Wah Chiu (SLAC): 10:30--10:50am \[[slides]({{ "/slides/2_Chiu.pdf" | relative_url }})]
           * Martin Pokorny (Caltech): 10:50--11:10am
       * *Lightning Talks*: 11:10am--12:00pm
           * Xiang Li (SLAC)
@@ -36,18 +36,18 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
       * *Plenary*: Tom Uram (ANL): 1:00pm--1:40pm
       * *Invited Talks*: 1:46--2:40pm
           * Ryan Coffee (SLAC): 1:46--2:04pm
-          * Hannah Parraga (ANL): 2:04--2:22pm
+          * Hannah Parraga (ANL): 2:04--2:22pm \[[slides]({{ "/slides/3_Parraga.pdf" | relative_url }})]
           * Jean Kossaifi (NVIDIA): 2:22--2:40pm
   * **Break**: 2:40--3:10pm
   * **Session 4**: 3:10--5:00pm
       * *Lightning Talks*: 3:10--3:52pm
-          * Mike Bauer (NVIDIA)
-          * Brad Chamberlain (HPE)
-          * Vincent Esposito (SLAC)
-          * Valerio Mariani (SLAC)
+          * Mike Bauer (NVIDIA) \[[slides]({{ "/slides/4_Bauer.pdf" | relative_url }})]
+          * Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_talk.pdf" | relative_url }})]
+          * Vincent Esposito (SLAC) \[[slides]({{ "/slides/4_Esposito.pdf" | relative_url }})]
+          * Valerio Mariani (SLAC) \[[slides]({{ "/slides/4_Mariani.pdf" | relative_url }})]
       * *Programming Models Panel*: 4:00--5:00pm
-          * Arkouda and Chapel, represented by Brad Chamberlain (HPE)
-          * cuPyNumeric, represented by Manolis Papadakis (NVIDIA)
+          * Arkouda and Chapel, represented by Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_panel.pdf" | relative_url }})]
+          * cuPyNumeric, represented by Manolis Papadakis (NVIDIA) \[[slides]({{ "/slides/4_Papadakis.pdf" | relative_url }})]
           * DragonHPC, represented by Colin Wahl (HPE)
           * Julia, represented by Johannes Blaschke (NERSC)
           * Lamellar, represented by Ryan Friese (PNNL)
@@ -58,10 +58,10 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Breakfast**: 8:00--8:30am
   * **Session 5**: 8:30--9:50am
       * *Invited Talk*: 8:30--8:50am
-          * Kento Sato (RIKEN): 8:30--8:50am
+          * Kento Sato (RIKEN): 8:30--8:50am \[[slides]({{ "/slides/5_Sato.pdf" | relative_url }})]
       * *Industry Hardware Panel*: 8:50--9:50am
         * Austin Ellis (AMD)
-        * Larry Kaplin (HPE)
+        * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplin.pdf" | relative_url }})]
         * Raghu Prabhakar (SambaNova)
         * Skyler Windh (Micron)
   * **Break**: 9:50am--10:20am
@@ -69,6 +69,6 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
       * *Lightning Talks*: 10:20--10:54am
           * Dionisio Doering (SLAC)
           * Joshua Turner (SLAC)
-          * Aashwin Ananda Mishra (SLAC)
+          * Aashwin Ananda Mishra (SLAC) \[[slides]({{ "/slides/6_Mishra.pdf" | relative_url }})]
       * *Discussion/Response Time*: 11:00am--12:00pm
   * **Lunch**: 12:00--1:00pm
