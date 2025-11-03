@@ -63,7 +63,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
         * Austin Ellis (AMD)
         * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplin.pdf" | relative_url }})]
         * Raghu Prabhakar (SambaNova)
-        * Skyler Windh (Micron)
+        * Skyler Windh (Micron) \[[slides]({{ "/slides/5_Windh.pdf" | relative_url }})]
   * **Break**: 9:50am--10:20am
   * **Session 6**: 10:20am--12:00pm
       * *Lightning Talks*: 10:20--10:54am
