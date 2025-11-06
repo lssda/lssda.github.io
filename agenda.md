@@ -26,10 +26,10 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
           * Wah Chiu (SLAC): 10:30--10:50am \[[slides]({{ "/slides/2_Chiu.pdf" | relative_url }})]
           * Martin Pokorny (Caltech): 10:50--11:10am \[[slides]({{ "/slides/2_Pokorny.pdf" | relative_url }})]
       * *Lightning Talks*: 11:10am--12:00pm
-          * Xiang Li (SLAC)
-          * Oliver Hoidn (SLAC)
+          * Xiang Li (SLAC) \[[slides]({{ "/slides/2_Li.pdf" | relative_url }})]
+          * Oliver Hoidn (SLAC) \[[slides]({{ "/slides/2_Hoidn.pdf" | relative_url }})]
           * Sandra Mous (SLAC)
-          * Kevin Dalton (SLAC)
+          * Kevin Dalton (SLAC) \[[slides]({{ "/slides/2_Dalton.pdf" | relative_url }})]
           * Elyse Schriber (SLAC) \[[slides]({{ "/slides/2_Schriber.pdf" | relative_url }})]
   * **Lunch**: 12:00--1:00pm
   * **Session 3**: 1:00pm--2:40pm
