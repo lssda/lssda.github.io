@@ -24,18 +24,18 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Session 2**: 10:30am--12:00pm
       * *Invited Talks*: 10:30--11:10am
           * Wah Chiu (SLAC): 10:30--10:50am \[[slides]({{ "/slides/2_Chiu.pdf" | relative_url }})]
-          * Martin Pokorny (Caltech): 10:50--11:10am
+          * Martin Pokorny (Caltech): 10:50--11:10am \[[slides]({{ "/slides/2_Pokorny.pdf" | relative_url }})]
       * *Lightning Talks*: 11:10am--12:00pm
           * Xiang Li (SLAC)
           * Oliver Hoidn (SLAC)
           * Sandra Mous (SLAC)
           * Kevin Dalton (SLAC)
-          * Elyse Schriber (SLAC)
+          * Elyse Schriber (SLAC) \[[slides]({{ "/slides/2_Schriber.pdf" | relative_url }})]
   * **Lunch**: 12:00--1:00pm
   * **Session 3**: 1:00pm--2:40pm
       * *Plenary*: Tom Uram (ANL): 1:00pm--1:40pm
       * *Invited Talks*: 1:46--2:40pm
-          * Ryan Coffee (SLAC): 1:46--2:04pm
+          * Ryan Coffee (SLAC): 1:46--2:04pm \[[slides]({{ "/slides/3_Coffee.pdf" | relative_url }})]
           * Hannah Parraga (ANL): 2:04--2:22pm \[[slides]({{ "/slides/3_Parraga.pdf" | relative_url }})]
           * Jean Kossaifi (NVIDIA): 2:22--2:40pm
   * **Break**: 2:40--3:10pm
