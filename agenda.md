@@ -48,9 +48,9 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
       * *Programming Models Panel*: 4:00--5:00pm
           * Arkouda and Chapel, represented by Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_panel.pdf" | relative_url }})]
           * cuPyNumeric, represented by Manolis Papadakis (NVIDIA) \[[slides]({{ "/slides/4_Papadakis.pdf" | relative_url }})]
-          * DragonHPC, represented by Colin Wahl (HPE)
-          * Julia, represented by Johannes Blaschke (NERSC)
-          * Lamellar, represented by Ryan Friese (PNNL)
+          * DragonHPC, represented by Colin Wahl (HPE) \[[slides]({{ "/slides/4_Wahl.pdf" | relative_url }})]
+          * Julia, represented by Johannes Blaschke (NERSC) \[[slides]({{ "/slides/4_Blaschke.pdf" | relative_url }})]
+          * Lamellar, represented by Ryan Friese (PNNL) \[[slides]({{ "/slides/4_Friese.pdf" | relative_url }})]
   * **Dinner**: 6:00--7:00pm
 
 ## Wednesday, October 22, 2025
@@ -60,7 +60,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
       * *Invited Talk*: 8:30--8:50am
           * Kento Sato (RIKEN): 8:30--8:50am \[[slides]({{ "/slides/5_Sato.pdf" | relative_url }}), [video](https://youtu.be/EW0MhqCi6KM)]
       * *Industry Hardware Panel*: 8:50--9:50am
-        * Austin Ellis (AMD)
+        * Austin Ellis (AMD) \[[slides]({{ "/slides/5_Ellis.pdf" | relative_url }})]
         * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplan.pdf" | relative_url }})]
         * Raghu Prabhakar (SambaNova)
         * Skyler Windh (Micron) \[[slides]({{ "/slides/5_Windh.pdf" | relative_url }})]
