@@ -45,7 +45,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
           * Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_talk.pdf" | relative_url }}), [video](https://youtu.be/f43u1GduhAA)]
           * Vincent Esposito (SLAC) \[[slides]({{ "/slides/4_Esposito.pdf" | relative_url }}), [video](https://youtu.be/QSghLqKEwqw)]
           * Valerio Mariani (SLAC) \[[slides]({{ "/slides/4_Mariani.pdf" | relative_url }}), [video](https://youtu.be/oY6qALGaD7A)]
-      * *Programming Models Panel*: 4:00--5:00pm
+      * *Programming Models Panel*: 4:00--5:00pm \[[video](https://youtu.be/UC0aXNLK188)]
           * Arkouda and Chapel, represented by Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_panel.pdf" | relative_url }})]
           * cuPyNumeric, represented by Manolis Papadakis (NVIDIA) \[[slides]({{ "/slides/4_Papadakis.pdf" | relative_url }})]
           * DragonHPC, represented by Colin Wahl (HPE) \[[slides]({{ "/slides/4_Wahl.pdf" | relative_url }})]
@@ -70,5 +70,5 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
           * Dionisio Doering (SLAC)
           * Joshua Turner (SLAC)
           * Aashwin Ananda Mishra (SLAC) \[[slides]({{ "/slides/6_Mishra.pdf" | relative_url }}), [video](https://youtu.be/O1OKqk9Zo4Q)]
-      * *Discussion/Response Time*: 11:00am--12:00pm
+      * *Discussion/Response Time*: 11:00am--12:00pm \[[video](https://youtu.be/T0T3xqyQ8zM)]
   * **Lunch**: 12:00--1:00pm
