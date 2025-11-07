@@ -58,7 +58,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Breakfast**: 8:00--8:30am
   * **Session 5**: 8:30--9:50am
       * *Invited Talk*: 8:30--8:50am
-          * Kento Sato (RIKEN): 8:30--8:50am \[[slides]({{ "/slides/5_Sato.pdf" | relative_url }})]
+          * Kento Sato (RIKEN): 8:30--8:50am \[[slides]({{ "/slides/5_Sato.pdf" | relative_url }}), [video](https://youtu.be/EW0MhqCi6KM)]
       * *Industry Hardware Panel*: 8:50--9:50am
         * Austin Ellis (AMD)
         * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplan.pdf" | relative_url }})]
@@ -69,6 +69,6 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
       * *Lightning Talks*: 10:20--10:54am
           * Dionisio Doering (SLAC)
           * Joshua Turner (SLAC)
-          * Aashwin Ananda Mishra (SLAC) \[[slides]({{ "/slides/6_Mishra.pdf" | relative_url }})]
+          * Aashwin Ananda Mishra (SLAC) \[[slides]({{ "/slides/6_Mishra.pdf" | relative_url }}), [video](https://youtu.be/O1OKqk9Zo4Q)]
       * *Discussion/Response Time*: 11:00am--12:00pm
   * **Lunch**: 12:00--1:00pm
