@@ -19,32 +19,32 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Session 1**: 8:30--10:00am
       * *Introduction*: 8:30--8:40am
       * *Plenary*: Jana Thayer (SLAC): 8:40--9:20am
-      * *Plenary*: Nicholas Sauter and David Mittan-Moreau (LBNL): 9:20--10:00am \[[slides]({{ "/slides/1_Sauter_Mittan-Moreau.pdf" | relative_url }})]
+      * *Plenary*: Nicholas Sauter and David Mittan-Moreau (LBNL): 9:20--10:00am \[[slides]({{ "/slides/1_Sauter_Mittan-Moreau.pdf" | relative_url }}), [video](https://youtu.be/_z7ho3B2IFE)]
   * **Break**: 10:00am--10:30am
   * **Session 2**: 10:30am--12:00pm
       * *Invited Talks*: 10:30--11:10am
           * Wah Chiu (SLAC): 10:30--10:50am \[[slides]({{ "/slides/2_Chiu.pdf" | relative_url }})]
-          * Martin Pokorny (Caltech): 10:50--11:10am \[[slides]({{ "/slides/2_Pokorny.pdf" | relative_url }})]
+          * Martin Pokorny (Caltech): 10:50--11:10am \[[slides]({{ "/slides/2_Pokorny.pdf" | relative_url }}), [video](https://youtu.be/HE1axczoUlo)]
       * *Lightning Talks*: 11:10am--12:00pm
-          * Xiang Li (SLAC) \[[slides]({{ "/slides/2_Li.pdf" | relative_url }})]
-          * Oliver Hoidn (SLAC) \[[slides]({{ "/slides/2_Hoidn.pdf" | relative_url }})]
+          * Xiang Li (SLAC) \[[slides]({{ "/slides/2_Li.pdf" | relative_url }}), [video](https://youtu.be/hCcfVbclueo)]
+          * Oliver Hoidn (SLAC) \[[slides]({{ "/slides/2_Hoidn.pdf" | relative_url }}), [video](https://youtu.be/5WVH7gWoaSo)]
           * Sandra Mous (SLAC)
-          * Kevin Dalton (SLAC) \[[slides]({{ "/slides/2_Dalton.pdf" | relative_url }})]
-          * Elyse Schriber (SLAC) \[[slides]({{ "/slides/2_Schriber.pdf" | relative_url }})]
+          * Kevin Dalton (SLAC) \[[slides]({{ "/slides/2_Dalton.pdf" | relative_url }}), [video](https://youtu.be/kdiThMkhG1E)]
+          * Elyse Schriber (SLAC) \[[slides]({{ "/slides/2_Schriber.pdf" | relative_url }}), [video](https://youtu.be/C6Ep1hyVL38)]
   * **Lunch**: 12:00--1:00pm
   * **Session 3**: 1:00pm--2:40pm
       * *Plenary*: Tom Uram (ANL): 1:00pm--1:40pm
       * *Invited Talks*: 1:46--2:40pm
-          * Ryan Coffee (SLAC): 1:46--2:04pm \[[slides]({{ "/slides/3_Coffee.pdf" | relative_url }})]
-          * Hannah Parraga (ANL): 2:04--2:22pm \[[slides]({{ "/slides/3_Parraga.pdf" | relative_url }})]
+          * Ryan Coffee (SLAC): 1:46--2:04pm \[[slides]({{ "/slides/3_Coffee.pdf" | relative_url }}), [video](https://youtu.be/MgSWZDYsLB4)]
+          * Hannah Parraga (ANL): 2:04--2:22pm \[[slides]({{ "/slides/3_Parraga.pdf" | relative_url }}), [video](https://youtu.be/QLGRR9yW2jo)]
           * Jean Kossaifi (NVIDIA): 2:22--2:40pm
   * **Break**: 2:40--3:10pm
   * **Session 4**: 3:10--5:00pm
       * *Lightning Talks*: 3:10--3:52pm
-          * Mike Bauer (NVIDIA) \[[slides]({{ "/slides/4_Bauer.pdf" | relative_url }})]
-          * Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_talk.pdf" | relative_url }})]
-          * Vincent Esposito (SLAC) \[[slides]({{ "/slides/4_Esposito.pdf" | relative_url }})]
-          * Valerio Mariani (SLAC) \[[slides]({{ "/slides/4_Mariani.pdf" | relative_url }})]
+          * Mike Bauer (NVIDIA) \[[slides]({{ "/slides/4_Bauer.pdf" | relative_url }}), [video](https://youtu.be/gb4oBiRUQ_Y)]
+          * Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_talk.pdf" | relative_url }}), [video](https://youtu.be/f43u1GduhAA)]
+          * Vincent Esposito (SLAC) \[[slides]({{ "/slides/4_Esposito.pdf" | relative_url }}), [video](https://youtu.be/QSghLqKEwqw)]
+          * Valerio Mariani (SLAC) \[[slides]({{ "/slides/4_Mariani.pdf" | relative_url }}), [video](https://youtu.be/oY6qALGaD7A)]
       * *Programming Models Panel*: 4:00--5:00pm
           * Arkouda and Chapel, represented by Brad Chamberlain (HPE) \[[slides]({{ "/slides/4_Chamberlain_panel.pdf" | relative_url }})]
           * cuPyNumeric, represented by Manolis Papadakis (NVIDIA) \[[slides]({{ "/slides/4_Papadakis.pdf" | relative_url }})]
