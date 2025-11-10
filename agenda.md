@@ -37,7 +37,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
       * *Invited Talks*: 1:46--2:40pm
           * Ryan Coffee (SLAC): 1:46--2:04pm \[[slides]({{ "/slides/3_Coffee.pdf" | relative_url }}), [video](https://youtu.be/MgSWZDYsLB4)]
           * Hannah Parraga (ANL): 2:04--2:22pm \[[slides]({{ "/slides/3_Parraga.pdf" | relative_url }}), [video](https://youtu.be/QLGRR9yW2jo)]
-          * Jean Kossaifi (NVIDIA): 2:22--2:40pm
+          * Jean Kossaifi (NVIDIA): 2:22--2:40pm \[[slides]({{ "/slides/3_Kossaifi.pdf" | relative_url }}), [video](https://youtu.be/URoi7bBAS4g)]
   * **Break**: 2:40--3:10pm
   * **Session 4**: 3:10--5:00pm
       * *Lightning Talks*: 3:10--3:52pm
@@ -59,10 +59,10 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Session 5**: 8:30--9:50am
       * *Invited Talk*: 8:30--8:50am
           * Kento Sato (RIKEN): 8:30--8:50am \[[slides]({{ "/slides/5_Sato.pdf" | relative_url }}), [video](https://youtu.be/EW0MhqCi6KM)]
-      * *Industry Hardware Panel*: 8:50--9:50am
+      * *Industry Hardware Panel*: 8:50--9:50am \[[video](https://youtu.be/cpNGCK3Utyw)]
         * Austin Ellis (AMD) \[[slides]({{ "/slides/5_Ellis.pdf" | relative_url }})]
         * Larry Kaplan (HPE) \[[slides]({{ "/slides/5_Kaplan.pdf" | relative_url }})]
-        * Raghu Prabhakar (SambaNova)
+        * Raghu Prabhakar (SambaNova) \[[slides]({{ "/slides/5_Prabhakar.pdf" | relative_url }})]
         * Skyler Windh (Micron) \[[slides]({{ "/slides/5_Windh.pdf" | relative_url }})]
   * **Break**: 9:50am--10:20am
   * **Session 6**: 10:20am--12:00pm
