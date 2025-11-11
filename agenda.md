@@ -18,7 +18,7 @@ A Zoom link will be emailed to virtual attendees the week of the workshop.
   * **Breakfast**: 8:00--8:30am
   * **Session 1**: 8:30--10:00am
       * *Introduction*: 8:30--8:40am
-      * *Plenary*: Jana Thayer (SLAC): 8:40--9:20am
+      * *Plenary*: Jana Thayer (SLAC): 8:40--9:20am \[[slides]({{ "/slides/1_Thayer.pdf" | relative_url }}), [video](https://youtu.be/_k_wNyFsg-I)]
       * *Plenary*: Nicholas Sauter and David Mittan-Moreau (LBNL): 9:20--10:00am \[[slides]({{ "/slides/1_Sauter_Mittan-Moreau.pdf" | relative_url }}), [video](https://youtu.be/_z7ho3B2IFE)]
   * **Break**: 10:00am--10:30am
   * **Session 2**: 10:30am--12:00pm
